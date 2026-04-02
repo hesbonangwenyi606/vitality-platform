@@ -3,7 +3,7 @@ HEAD
 
 A modern React starter template built with Vite, TypeScript, Tailwind CSS, and shadcn/ui components.
 
-## 🚀 Features
+##  Features
 
 - ⚡️ **Vite** - Fast build tool and development server
 - ⚛️ **React 18** - Latest React with hooks support
@@ -12,7 +12,7 @@ A modern React starter template built with Vite, TypeScript, Tailwind CSS, and s
 - 🧩 **shadcn/ui** - Beautifully designed components built with Radix UI
 - 📦 **Path Mapping** - Clean imports with `@/` prefix
 
-## 📦 Included shadcn/ui Components
+##  Included shadcn/ui Components
 
 - Button
 - Card
@@ -82,7 +82,7 @@ import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 ```
 
-## 🌗 Dark Mode
+##  Dark Mode
 
 The template includes dark mode support through Tailwind's `dark:` classes and CSS custom properties.
 
@@ -98,10 +98,6 @@ The template includes dark mode support through Tailwind's `dark:` classes and C
 
 Feel free to submit issues and enhancement requests!
 
-**⚡ Powered by [Dala](https://dala.gebeya.com)** - The AI-powered web development platform that helps you build full-stack applications faster.
-
----
-
 ## 🤖 What is Dala?
 
 **[Gebeya Dala](https://dala.gebeya.com)** is an intelligent web development platform that accelerates your React development workflow. Build, preview, and deploy web applications, and instant development environments.
@@ -115,10 +111,3 @@ Feel free to submit issues and enhancement requests!
 - **Zero Setup** - No local environment configuration needed
 - **Collaborative** - Build and share projects with your team
 - **Deployment Ready** - One-click deployment to production
-
----
-
-Built with ❤️ by the Dala team to help developers build faster and smarter.
-# vitality-platform
-Project: vitality-platform
-23cc0f9a3ccaea21ca335ca9a1cf95f0e3fff890
